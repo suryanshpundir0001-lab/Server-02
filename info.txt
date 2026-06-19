@@ -1,0 +1,8 @@
+what i did in thi project first i amse http server using http module having some handler function
+which handle the requesta nd response cycle ......but this method is too trick and looking ugly
+as we need to handle all the things from very scratch like there http methods get, post , put , patch , delete
+
+
+
+We overcome with the messy loolking code by a framework named Express which have it inbuilt methods to handle request from any path and 
+witha any type of query paramerter
